@@ -3,10 +3,10 @@
 This is a simple React project with TDD/BDD methodologies bootstraped with create-react-app.
 
 ### Usage
-Clone the repository
-Run `npm i` to install necessary packages
-Run `npm start` to run the project on [http://localhost:3000](http://localhost:3000) to view it in browser locally.
-Run `npm run test` to run the tests. Alternativelly you can run `npm run test -- --coverage` to see the coverage of the tests
+Clone the repository<br />
+Run `npm i` to install necessary packages<br />
+Run `npm start` to run the project on [http://localhost:3000](http://localhost:3000) to view it in browser locally.<br />
+Run `npm run test` to run the tests. Alternativelly you can run `npm run test -- --coverage` to see the coverage of the tests<br />
 
 ### Information
 Dependencies used:
